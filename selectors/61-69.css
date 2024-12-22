@@ -1,0 +1,168 @@
+/* 61-1 */
+/* .eee .bbb {
+	color: red;
+} */
+
+/* 61-2 */
+/* .eee h2 {
+    color: red;
+} */
+
+/* 61-3 */
+/* .eee h2.bbb {
+	color: red;
+} */
+
+/* 61-4 */
+/* .eee h3.bbb {
+	color: red;
+} */
+
+/* 61-6 */
+/* .eee .bbb .kkk {
+	color: red;
+} */
+
+
+
+
+
+
+/* 62-1 */
+/* p.bbb {
+	color: red;
+} */
+
+/* 62-3 */
+/* .eee p.bbb {
+	color: red;
+} */
+
+/* 62-4 */
+/* .eee p .bbb {
+	color: red;
+} */
+
+
+
+
+
+/* 63-1 */
+/* .success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+} */
+
+
+/* 63-2 */
+/* .large {
+	font-size: 30px;
+}
+.blue {
+    color: blue;
+}
+.ls {
+    letter-spacing: 5px;
+} */
+
+
+
+
+
+/* 64 */
+/* #elem1 {
+    color: red;
+}
+
+#elem2 {
+    color: green;
+}
+
+#elem3 {
+    color: blue;
+} */
+
+
+
+
+
+/* 65 */
+/* #block {
+	color: red;
+	font-family: Arial;
+}
+.text {
+	font-size: 30px;
+} */
+
+
+
+
+/* 66-1 */
+/* #elem h2 {
+    color: red
+} */
+
+/* 66-3 */
+/* #elem p.text {
+    color: red;
+} */
+
+/* 66-4 */
+/* #elem li.text {
+    color: red;
+} */
+
+
+
+
+
+/* 67 */
+/* .eee.zzz.ccc {
+    color: red;
+} */
+
+
+
+
+/* 68-1 */
+/* .bbb.zzz {
+	color: red;
+} */
+
+/* 68-3 */
+/* #elem.bbb {
+	color: red;
+} */
+
+/* 68-5 */
+/* h2#elem.bbb {
+	color: red;
+} */
+
+
+
+
+
+/* 69-6 */
+.bbb .zzz.xxx {
+	color: red;
+}
+
+/* 69-9 */
+#elem.bbb {
+	color: red;
+}
+
+/* 69-10 */
+#elem .bbb {
+	color: red;
+}

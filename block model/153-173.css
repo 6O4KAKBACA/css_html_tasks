@@ -1,0 +1,192 @@
+/* 153 */
+/* #parent {
+    border: 1px solid red;
+}
+
+#elem1 {
+    margin: 10px auto;
+    width: 100px;
+    height: 100px;
+    border: 1px solid green;
+}
+
+#elem2 {
+    margin: 10px auto;
+    width: 200px;
+    height: 100px;
+    border: 1px solid green;
+}
+
+#elem3 {
+    margin: 10px auto;
+    width: 300px;
+    height: 100px;
+    border: 1px solid green;
+} */
+
+/* 158 */
+/* .parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: center;
+} */
+
+/* 159 */
+/* .parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+    padding-right: 15px;
+} */
+
+
+
+
+/* 162-1,2 */
+/* .parent {
+    text-align: right;
+	padding: 10px 0;
+    padding-right: 15px;
+	border: 1px solid red;
+}
+.child {
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid green;
+} */
+
+/* 162-4,5 */
+/* .parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+.child {
+	width: 100px;
+	padding: 10px;
+	border: 1px solid green;
+    display: inline-block;
+    text-align: center;
+} */
+
+
+
+/* .parent163 {
+    display: flex;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child163 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+} */
+
+
+
+/* .parent164 {
+    display: flex;
+    width: 900px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child164 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+} */
+
+
+
+/* .parent165 {
+    display: flex;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child165 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+} */
+
+
+
+
+/* .parent168 {
+    display: inline-flex;
+    
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child168 {
+    width: 120px;
+    height: 60px;
+    margin: 30px;
+    border: 1px solid green;
+} */
+
+
+
+.parent170 {
+    display: flex;
+    justify-content: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child170 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+
+
+.parent171 {
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child171 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+
+
+.parent172 {
+    display: flex;
+    justify-content: space-around;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child72 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+
+
+.parent173 {
+    display: flex;
+    justify-content: space-evenly;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child173 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}

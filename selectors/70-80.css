@@ -1,0 +1,186 @@
+/* 70-1 */
+/* Упростите код, используя группировку селекторов: */
+/* #block h1 {
+	text-align: center;
+}
+#block h2 {
+	text-align: center;
+} */
+
+/* #block h1, #block h2 {
+    text-align: center;
+} */
+
+/* 70-2 */
+/* Упростите код, используя группировку селекторов:
+#block h1 {
+	text-align: center;
+	font-size: 30px;
+}
+#block h2 {
+	text-align: center;
+	font-size: 20px;
+} */
+
+/* #block h1, #block h2 {
+    text-align: center;
+}
+
+#block h1 {
+    font-size: 30px;
+}
+
+#block h2 {
+    font-size: 20px;
+} */
+
+
+
+
+
+
+
+/* 71-2 */
+/* Упростите код, используя группировку селекторов: */
+/* #block h1.eee {
+	text-align: center;
+	font-size: 30px;
+}
+#block h2.zzz {
+	text-align: center;
+	font-size: 20px;
+} */
+
+/* #block h1.eee, #block h2.zzz {
+    text-align: center;
+}
+
+#block h1.eee {
+	font-size: 30px;
+}
+
+#block h2.zzz {
+	font-size: 20px;
+} */
+
+
+/* 71-4 */
+/* .eee h2.zzz {
+	text-align: center;
+}
+.xxx {
+	text-align: center;
+} */
+
+/* .eee h2.zzz, .xxx {
+    text-align: center;
+} */
+
+
+
+
+
+/* 72-1 */
+/* div p {
+    color: red;
+} */
+
+/* 72-3 */
+/* #block p {
+    color: green;
+} */
+
+/* 72-6 */
+/* #block .bbb {
+    color: blue
+} */
+
+/* 72-9 */
+/* #block p.bbb {
+    color:blueviolet
+} */
+
+/* 72-12 */
+/* #block p.bbb, #block p.xxx {
+    color: red;
+} */
+
+/* 72-17 */
+/* .fff h2.bbb {
+    color: red;
+} */
+
+
+
+
+
+
+
+/* 77-1 */
+/* #elem + li {
+    color: red;
+} */
+
+/* 77-2 */
+/* .elem + li {
+    color: red;
+} */
+
+
+
+
+
+
+/* 78 */
+/* #elem ~ li {
+    color: red;
+} */
+
+
+
+
+
+/* 79 */
+/* main * p {
+    color: red;
+} */
+
+
+
+
+
+/* 80-1 */
+[title] {
+    color: red;
+}
+
+
+/* 80-2 */
+p[title] {
+    color: green;
+}
+
+/* 80-3 */
+p[title="hello"] {
+    color: blue;
+}
+
+/* 80-4 */
+a[href^="http://"] {
+    color: blue;
+}
+
+/* 80-5 */
+a[href$=".html"] {
+    color: red;
+}
+
+/* 80-6 */
+p[title*="hello"] {
+    color: purple;
+}
+
+/* 80-7 */
+p[class^="top-"] {
+    color: orange;
+}
